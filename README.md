@@ -9,7 +9,8 @@ The code was developed on Python 3.6 and tensorflow 1.15.0.
 ```
 mkdir data/weibo/fast
 ```
-Put the data in this folder.
+
+Download [data](https://pan.baidu.com/s/1O7SyIeEejuuQJ48gpxGc-Q?pwd=wauq) and put them in data/weibo/fast.
 
 ### run main.py
 Generate poisoning data of IPRO.
