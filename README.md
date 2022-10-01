@@ -1,6 +1,6 @@
-# Social Media Promotion via Interaction Data Poisoning
+# Attacking Social Media via Influential Interaction Poisoning
 
-This project is for the paper "Social Media Promotion via Interaction Data Poisoning".
+This project is for the paper "Attacking Social Media via Influential Interaction Poisoning".
 
 The code was developed on Python 3.6 and tensorflow 1.15.0.
 
